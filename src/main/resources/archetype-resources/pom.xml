@@ -16,7 +16,7 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-  <dependencies>
+ <dependencies>
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-resteasy</artifactId>
@@ -80,14 +80,6 @@
     </dependency>
     <dependency>
       <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-smallrye-opentracing</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-smallrye-jwt</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>io.quarkus</groupId>
       <artifactId>quarkus-smallrye-health</artifactId>
     </dependency>
     <dependency>
@@ -95,6 +87,12 @@
       <artifactId>quarkus-smallrye-opentracing</artifactId>
     </dependency>
   </dependencies>
+  <!--
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-smallrye-jwt</artifactId>
+    </dependency>
+    -->  
   <build>
     <plugins>
       <plugin>
