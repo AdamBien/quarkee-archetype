@@ -1,4 +1,4 @@
-# quarkee quickstarter
+# QuarkEE quickstarter
 
 Opinionated Java EE-like profile for quarkus.io with common extensions included.
 
