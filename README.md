@@ -11,3 +11,7 @@ You can also use the template (empty project) directly: [quarkee](https://github
 Interested in quarkus.io? Checkout [Quarkus and ThinJARs, #33 airhacks.tv episode](http://airhacks.fm/#episode_33) 
 
 See you at [airhacks.com](http://airhacks.com)
+
+[![QuarkEE in action](https://i.ytimg.com/vi/2X1wGHyHvA4/mqdefault.jpg)](https://www.youtube.com/embed/2X1wGHyHvA4?rel=0)
+
+
