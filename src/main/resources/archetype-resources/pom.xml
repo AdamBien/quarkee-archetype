@@ -82,16 +82,15 @@
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-smallrye-opentracing</artifactId>
     </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-smallrye-jwt</artifactId>
+    </dependency>
   </dependencies>
   <!--
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-hibernate-orm</artifactId>
-    </dependency>
-
-    <dependency>
-      <groupId>io.quarkus</groupId>
-      <artifactId>quarkus-smallrye-jwt</artifactId>
     </dependency>
     -->  
   <build>
