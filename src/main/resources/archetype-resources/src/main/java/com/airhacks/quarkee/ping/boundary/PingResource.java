@@ -1,4 +1,4 @@
-package com.airhacks.full.boundary;
+package com.airhacks.quarkee.ping.boundary;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
