@@ -7,7 +7,7 @@
     </parent>
     <groupId>com.airhacks</groupId>
     <artifactId>quarkee-archetype</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <name>quarkee-archetype</name>
     <description>quarkus.io with Java EE-stic out-of-the-box experience</description>
     <url>http://airhacks.com</url>
@@ -90,7 +90,7 @@
         <connection>scm:git:git@github.com:AdamBien/quarkee-archetype.git</connection>
         <url>scm:git:git@github.com:AdamBien/quarkee-archetype.git</url>
         <developerConnection>scm:git:git@github.com:AdamBien/quarkee-archetype.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v0.0.2</tag>
   </scm>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
