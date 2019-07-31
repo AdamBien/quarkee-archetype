@@ -6,7 +6,7 @@ Opinionated Java EE-like profile for quarkus.io with common extensions included.
 mvn archetype:generate -DarchetypeGroupId=com.airhacks -DarchetypeArtifactId=quarkee-archetype
 ```
 
-Also checkout post: [mvn archetype:generate tuning](http://adambien.blog/roller/abien/entry/maven_archetype_generate_tuning)
+Also checkout: [mvn archetype:generate tuning](http://adambien.blog/roller/abien/entry/maven_archetype_generate_tuning)
 
 You can also use the template (empty project) directly: [quarkee](https://github.com/AdamBien/quarkee)
 
