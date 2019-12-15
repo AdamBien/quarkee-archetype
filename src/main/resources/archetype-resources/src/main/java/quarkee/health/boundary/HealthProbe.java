@@ -1,4 +1,4 @@
-package com.airhacks.quarkee.health.boundary;
+package ${package}.quarkee.health.boundary;
 
 import javax.enterprise.context.ApplicationScoped;
 
