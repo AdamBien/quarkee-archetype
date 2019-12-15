@@ -2,8 +2,10 @@
 
 Opinionated Java EE-like profile for quarkus.io with common extensions included.
 
+Copy and paste (replace GROUP_ID and PROJECT_NAME)
+
 ```
-mvn archetype:generate -DarchetypeGroupId=com.airhacks -DarchetypeArtifactId=quarkee-archetype
+mvn archetype:generate -o -DarchetypeGroupId=com.airhacks -DarchetypeArtifactId=quarkee-archetype -DarchetypeVersion=0.0.4 -Darchetype.interactive=false --batch-mode -Dversion=0.0.1 -DgroupId=GROUP_ID -DartifactId=PROJECT_NAME 
 ```
 
 Also checkout: [mvn archetype:generate tuning](http://adambien.blog/roller/abien/entry/maven_archetype_generate_tuning)
